@@ -7,12 +7,14 @@
       <change beforePath="$PROJECT_DIR$/../../../.idea/connect-plus-starter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/connect-plus-starter.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bootstrap/cache/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../composer.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../composer.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../config/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../../config/app.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/damdar.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/damdar.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../resources/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../resources/js/bootstrap.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../resources/views/layouts/admin/base.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../../resources/views/layouts/admin/base.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../../routes/web.php" afterDir="false" />
@@ -114,6 +116,7 @@
       <workItem from="1606070093034" duration="1908000" />
       <workItem from="1606112662187" duration="12273000" />
       <workItem from="1606201312352" duration="11289000" />
+      <workItem from="1606240686255" duration="2065000" />
     </task>
     <servers />
   </component>

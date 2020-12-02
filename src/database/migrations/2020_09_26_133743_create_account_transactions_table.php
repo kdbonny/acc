@@ -15,7 +15,7 @@ class CreateAccountTransactionsTable extends Migration
     {
         Schema::create('acc_transactions', function (Blueprint $table) {
             $table->id();
-            $table->integer('sort_by')->nullable();
+            $table->string('sort_by')->nullable();
             $table->integer('vno')->default(-1);
             $table->string('head')->nullable();
             $table->string('description')->nullable();
